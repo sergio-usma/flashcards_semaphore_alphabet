@@ -44,7 +44,6 @@ Aplicación web de flashcards para memorizar el alfabeto de banderas de señales
 ## 📝 Créditos
 
 - **Desarrollado por**: Sergio Usma — Programa de Ciencias Náuticas, Escuela Naval de Cadetes Almirante Padilla.
-- **Inspiración**: código de ejemplo proporcionado para flashcards de marinería.
 - **Iconos**: [Bootstrap Icons](https://icons.getbootstrap.com/)
 - **Framework CSS**: [Bootstrap](https://getbootstrap.com/)
 

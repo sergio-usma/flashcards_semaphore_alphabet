@@ -247,13 +247,11 @@ footer a:hover {
     .badge-flag {
         display: none;
     }
-    
+    .text-secondary {
+        display: none;
+    }
     .vr {
         display: none !important;
-    }
-    .badge-flag {
-        font-size: 0.9rem;
-        padding: 0.3rem 1rem;
     }
     .navbar .d-flex.flex-column span {
         font-size: 0.85rem;
@@ -285,3 +283,4 @@ footer a:hover {
     }
 
 }
+

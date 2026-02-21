@@ -244,6 +244,10 @@ footer a:hover {
     .logo-enap {
         height: 60px !important;
     }
+    .badge-flag {
+        display: none;
+    }
+    
     .vr {
         display: none !important;
     }
@@ -279,4 +283,5 @@ footer a:hover {
         font-size: 0.8rem;
         padding: 0.3rem 1rem;
     }
+
 }
